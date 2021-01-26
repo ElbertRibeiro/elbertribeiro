@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elbertribeiro" />
+<img align="center" alt="Elbert Ribeiro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script&count_private=true&theme=radical" />
