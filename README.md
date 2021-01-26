@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**ElbertRibeiro/elbertribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img align="left" alt="Elbert Ribeiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=elbertribeiro&theme=highcontrast&show_icons=true" />
-<img align="left"  width="410" alt="Elbert Ribeiro Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbertribeiro&layout=compact&theme=highcontrast" />
+<img align="left"  width="400" alt="Elbert Ribeiro Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbertribeiro&layout=compact&theme=highcontrast" />
