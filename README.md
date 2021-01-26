@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elbertribeiro" />
 <img align="center" alt="Elbert Ribeiro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbertribeiro&count_private=true&theme=radical" />
-<img align="center" alt="Elbert Ribeiro1" src="https://github-readme-stats.vercel.app/api/wakatime?username=elbertribeiro&count_private=true" />
+<img align="center" alt="Elbert Ribeiro1" src="https://github-readme-stats.vercel.app/api/wakatime?username=elbertribeiro" />
