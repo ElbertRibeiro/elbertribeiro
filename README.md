@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align="left" alt="Elbert Ribeiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=elbertribeiro" />
-<img align="left" alt="Elbert Ribeiro Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbertribeiro&layout=compact" />
+<img align="left" alt="Elbert Ribeiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=elbertribeiro&theme=highcontrast&show_icons=true" />
+<img align="left" alt="Elbert Ribeiro Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbertribeiro&layout=compact&theme=highcontrast" />
