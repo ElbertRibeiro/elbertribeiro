@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=Vehicle-Rental-System" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ElbertRibeiro/Java-cryptography-program">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=Java-cryptography-program" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
