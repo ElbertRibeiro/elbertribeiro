@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=Vehicle-Rental-System" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=Vehicle-Rental-System" />
+<a href="https://github.com/elbertribeiro/MaratonaDiscover">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=MaratonaDiscover" />
 </a>
 <a href="https://github.com/ElbertRibeiro/Java-cryptography-program">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=Java-cryptography-program" />
