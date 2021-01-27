@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img align="left" alt="Elbert Ribeiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=elbertribeiro&theme=highcontrast&show_icons=true" />
-<img align="left"  width="310" height="300" alt="Elbert Ribeiro Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbertribeiro&layout=compact&theme=highcontrast" />
+<img align="left"  width="310" height="400" alt="Elbert Ribeiro Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbertribeiro&layout=compact&theme=highcontrast" />
