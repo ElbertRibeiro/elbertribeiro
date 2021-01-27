@@ -1,4 +1,4 @@
-### Hi there <img height="25" src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" >
+### Hi there  <img height="25" src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" >
 
 Here are some ideas to get you started:
 
