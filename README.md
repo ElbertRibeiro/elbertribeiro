@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=todo-list-electronJS" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=BetProtocolChallenge" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=BetProtocolChallenge" />
 </a>
