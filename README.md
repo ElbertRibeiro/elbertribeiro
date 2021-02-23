@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Elbert Ribeiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=elbertribeiro&theme=highcontrast&show_icons=true" />
 <img width="310" height="200" alt="Elbert Ribeiro Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbertribeiro&layout=compact&theme=highcontrast" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ElbertRibeiro/Student-Management-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=Student-Management-System" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/ElbertRibeiro/Vehicle-Rental-System">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=Vehicle-Rental-System" />
 </a>
 
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/ElbertRibeiro/Java-cryptography-program">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=Java-cryptography-program" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/ElbertRibeiro/todo-list-electronJS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=todo-list-electronJS" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/ElbertRibeiro/BetProtocolChallenge">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=BetProtocolChallenge" />
 </a>
