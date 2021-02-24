@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/elbertribeiro/MaratonaDiscover">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=MaratonaDiscover" />
 </a>
-<a href="https://github.com/ElbertRibeiro/Java-cryptography-program">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=Java-cryptography-program" />
+<a href="https://github.com/ElbertRibeiro/ProfileCard">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=ProfileCard" />
 </a>
 <a href="https://github.com/ElbertRibeiro/todo-list-electronJS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elbertribeiro&repo=todo-list-electronJS" />
