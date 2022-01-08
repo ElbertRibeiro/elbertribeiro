@@ -6,7 +6,7 @@
 Sou formando em Engenharia de Ciência da Computação 🎓 da Universidade Estácio de Sá 🏛. Estou sempre disposto a aprender e trabalhar em várias tecnologias e domínios💡. Gosto de explorar novas tecnologias e enter a aplicabilidade delas em projetos reais, podendo resolver problemas de maneira mais consistente ✨.. Atualmente estou Desenvolvedor Backend (JAVA) mas ja fui desenvolvedor Frontend (React.js) 🕸️.
 </p>
 
-- 🤝 Se programo, logo vivo!.
+- 🤝 Se programo, logo existo!.
 - 💬 O trabalho de um desenvolvedor é resolver problemas.
 - 📫 Meu Email é: [elbertprofissional@gmail.com](mailto:elbertprofissional@gmail.com).
 
