@@ -3,7 +3,7 @@
 
 <h3 align="center">Sobre Mim!</h3>
 <p align="center">
-Sou formando em Engenharia de Ciência da Computação 🎓 da Universidade Estácio de Sá 🏛. Estou sempre disposto a aprender e trabalhar em várias tecnologias e domínios💡. Gosto de explorar novas tecnologias e enter a aplicabilidade delas em projetos reais, podendo resolver problemas de maneira mais consistente ✨.. Atualmente estou Desenvolvedor Backend (JAVA) mas ja fui desenvolvedor Frontend (React.js) 🕸️.
+Sou formado em Engenharia de Ciência da Computação 🎓 da Universidade Estácio de Sá 🏛. Estou sempre disposto a aprender e trabalhar em várias tecnologias e domínios💡. Gosto de explorar novas tecnologias e enter a aplicabilidade delas em projetos reais, podendo resolver problemas de maneira mais consistente ✨.. Atualmente estou Desenvolvedor Backend (JAVA) mas ja fui desenvolvedor Frontend (React.js) 🕸️.
 </p>
 
 - 🤝 Se programo, logo existo!.
